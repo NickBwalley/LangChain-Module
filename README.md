@@ -84,7 +84,7 @@ To enter command mode, you press Esc when you are in the notebook. The cell bord
 	• Edit mode is the state where you can edit the content of the cells (like writing or modifying code in a code cell or writing text in a markdown cell).</br>
 	• In edit mode, the cell border will be green, and the cursor will be inside the cell, so you can type directly into it.</br>
 To enter edit mode, you press Enter while selecting a cell. Once you're done editing, you can press Esc to go back to command mode.</br>
-**Summary:**
+**Summary:** </br>
 	• Command mode: You manage cells as a whole (blue border, press Esc to enter).</br>
 	• Edit mode: You edit the content of a cell (green border, press Enter to enter).</br>
 The difference is important because many keyboard shortcuts depend on whether you're in command or edit mode. For example, Shift + Enter runs the cell when you're in command mode, but when you're in edit mode, it will just move the cursor down in the cell.</br>

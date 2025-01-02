@@ -42,7 +42,7 @@ Automatic Backups: Jupyter creates checkpoints (backup copies) of the notebooks 
 Checkpoint Files: These backup files are stored in the .ipynb_checkpoints folder. You won’t see them in your regular notebook interface, but they exist as versions of your notebook saved at certain points during your work.
 
 ## As you know I am a huge fan of Keyboard shortcuts. 😉😉 Here are a few to boost your efficiency using JupyterNotebook. 😏
-Command Mode Shortcuts (press Esc to enter command mode)</br>
+### Command Mode Shortcuts (press Esc to enter command mode)
 	1. A: Insert a new cell above the current cell. </br>
 	2. B: Insert a new cell below the current cell.</br>
 	3. M: Change the current cell to Markdown.</br>
@@ -61,7 +61,7 @@ Command Mode Shortcuts (press Esc to enter command mode)</br>
 	16. Shift + Space: Scroll up.</br>
 	17. Space: Scroll down.</br>
 	18. H: Show all keyboard shortcuts.</br>
-Edit Mode Shortcuts (press Enter to enter edit mode)</br>
+### Edit Mode Shortcuts (press Enter to enter edit mode)
 	1. Ctrl + A: Select all content in the cell.</br>
 	2. Ctrl + C: Copy the selected content.</br>
 	3. Ctrl + X: Cut the selected content.</br>
@@ -71,16 +71,7 @@ Edit Mode Shortcuts (press Enter to enter edit mode)</br>
 	7. Ctrl + Shift + -: Split the cell at the cursor position.</br>
 	8. Tab: Autocomplete or indent (depending on context).</br>
 	9. Shift + Tab: Show tooltip/help (useful for functions or methods).</br>
-To Clear the Output of a Cell:</br>
-	1. Command Mode: First, press Esc to make sure you're in command mode (cell border will turn blue).</br>
-	2. Clear Output: Press O. This will toggle the output visibility for the selected cell (if the output is visible, it will hide it, and if hidden, it will show it).</br>
-Alternatively, you can use the following methods to clear all outputs in the notebook:</br>
-Clear All Outputs:</br>
-	1. Go to the menu bar: You can use the Kernel menu.</br>
-	2. Clear Outputs: Choose Kernel > Restart & Clear Output to restart the kernel and clear all outputs, or Cell > All Output > Clear to clear output from all cells without restarting the kernel.</br>
-Using the shortcut O in command mode is the quickest way to toggle outputs for individual cells.</br>
-
-Command Mode:</br>
+### Command Mode:</br>
 	• Command mode is the state in which you can interact with and manage cells at a higher level.</br>
 	• In command mode, the focus is on the cells themselves (like moving cells up or down, deleting, running, etc.), and the cell border will be blue.</br>
 	• You cannot edit the content of the cells directly in command mode, but you can perform actions like:</br>
@@ -89,7 +80,7 @@ Command Mode:</br>
 		○ Changing the cell type (code or markdown) (M for Markdown, Y for code).</br>
 		○ Running cells (Shift + Enter to run and move to the next cell).</br>
 To enter command mode, you press Esc when you are in the notebook. The cell border will turn blue, indicating that you are in command mode.</br>
-Edit Mode:</br>
+### Edit Mode:</br>
 	• Edit mode is the state where you can edit the content of the cells (like writing or modifying code in a code cell or writing text in a markdown cell).</br>
 	• In edit mode, the cell border will be green, and the cursor will be inside the cell, so you can type directly into it.</br>
 To enter edit mode, you press Enter while selecting a cell. Once you're done editing, you can press Esc to go back to command mode.</br>
@@ -98,8 +89,8 @@ Summary:</br>
 	• Edit mode: You edit the content of a cell (green border, press Enter to enter).</br>
 The difference is important because many keyboard shortcuts depend on whether you're in command or edit mode. For example, Shift + Enter runs the cell when you're in command mode, but when you're in edit mode, it will just move the cursor down in the cell.</br>
 
-To Enter Edit Mode:</br>
+### To Enter Edit Mode:</br>
 	• Simply press Enter when you are in command mode. This will place the cursor inside the selected cell, allowing you to edit the content.</br>
-To Enter Command Mode:</br>
+### To Enter Command Mode:</br>
 	• Press Esc when you are in edit mode. This will exit edit mode and return you to command mode, where you can manage cells but not directly edit their content.</br>
 

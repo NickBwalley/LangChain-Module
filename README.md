@@ -61,6 +61,9 @@ Checkpoint Files: These backup files are stored in the .ipynb_checkpoints folder
 	16. Shift + Space: Scroll up.</br>
 	17. Space: Scroll down.</br>
 	18. H: Show all keyboard shortcuts.</br>
+	19. Arrow Up (Move to the cell above): K (in Command Mode)
+        20. Arrow Down (Move to the cell below): J (in Command Mode)
+ 
 ### Edit Mode Shortcuts (press Enter to enter edit mode)
 	1. Ctrl + A: Select all content in the cell.</br>
 	2. Ctrl + C: Copy the selected content.</br>

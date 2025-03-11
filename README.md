@@ -74,6 +74,7 @@ Checkpoint Files: These backup files are stored in the .ipynb_checkpoints folder
 	7. Ctrl + Shift + -: Split the cell at the cursor position.</br>
 	8. Tab: Autocomplete or indent (depending on context).</br>
 	9. Shift + Tab: Show tooltip/help (useful for functions or methods).</br>
+ 	10. Shift: Show suggestion of other similar functions with the same stem
 ### Command Mode:</br>
 	• Command mode is the state in which you can interact with and manage cells at a higher level.</br>
 	• In command mode, the focus is on the cells themselves (like moving cells up or down, deleting, running, etc.), and the cell border will be blue.</br>
